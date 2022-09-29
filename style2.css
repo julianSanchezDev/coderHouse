@@ -1,0 +1,72 @@
+
+
+body {
+
+    background: rgb(47, 43, 112);
+    background: linear-gradient(138deg, rgb(66, 61, 175) 0%, rgb(98, 98, 223) 43%, rgb(23, 62, 70) 100%);   
+    
+    
+    
+}
+
+.img-central{
+
+width: 50;
+height: 50;
+
+}
+
+
+#botonera{
+
+
+}
+
+#botonera ul li a {
+
+color: rgba(125, 142, 236, 0.829);
+font-size: 20px;
+
+}
+
+#botonera ul {
+
+
+    
+}
+
+/* PIE DE PAGINA FOOTER */
+.pieNosotros  {
+
+background-color: rgb(255, 0, 242);
+height: 5rem;
+width: 100%;
+
+}
+
+.pieNosotros ul {
+
+display: flex;
+justify-content: center;
+
+}
+
+.pieNosotros ul li {
+
+    list-style: none;
+    margin-top: 1.5rem;
+    margin-right: 3rem;
+
+}
+
+.pieNosotros ul li a img {
+
+    width: 2rem;
+    height: 2rem;
+
+}
+
+
+
+
+
